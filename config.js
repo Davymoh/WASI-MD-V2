@@ -65,7 +65,7 @@ module.exports = {
   caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2😍",
   author: process.env.PACK_AUTHER || "CYRIL",
   packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "CYNUX",
+  botname: process.env.BOT_NAME || "Davymoh",
   ownername: process.env.OWNER_NAME || "CYRIL",
   errorChat: process.env.ERROR_CHAT || "923192173398",
   KOYEB_API: process.env.KOYEB_API || "false",
